@@ -86,7 +86,7 @@
 .touyouhouqian{
 	width: 20px;
 	height: 14px;
-	background: red;
+	background: ;
 	display: block;
 	float: left;
 	margin: 14px 4px 0 17px;
@@ -114,7 +114,7 @@
 .daozuo{
 	width: 55px;
 	height: 55px;
-    background: blue;
+    background: ;
     display: block;
     margin-top: 22px;
     float: left;   
@@ -213,7 +213,7 @@ height: 100%;
 .banner .bannertu li{
 	width: 100%;
 	height: 100%;
-	background: green;
+	background: ;
 	position: absolute;
 	left: 0;
 	right: 0;
